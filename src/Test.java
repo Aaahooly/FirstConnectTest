@@ -3,7 +3,7 @@ public class Test<T> {
     People people;
     public static void main(String[] args) {
         Test<Object> test = new Test<>();
-        //Коммит
+        //Коммит jgjgfk
             
        /* String randomFrom = "Рождённый ползать, летать не может!";
         String randomTo = "Рождённые ползать уже летают на самолётах! BOEING666";
