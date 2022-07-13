@@ -1,9 +1,9 @@
-import java.util.*;
-
 public class Test<T> {
+
     People people;
     public static void main(String[] args) {
-        Test test = new Test();
+        Test<Object> test = new Test<>();
+        //Коммит
             
        /* String randomFrom = "Рождённый ползать, летать не может!";
         String randomTo = "Рождённые ползать уже летают на самолётах! BOEING666";
